@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Syed Abraar Zeeshan 👋
 
-<!--
-**syed-abraar-zeeshan/syed-abraar-zeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Flutter Developer | 4.8 Years Experience
+📍 Hyderabad, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Mobile:** Flutter, Dart, iOS, Android
+- **State Management:** Riverpod, BLoC, GetX
+- **Backend:** Node.js, Express.js, MongoDB, AWS EC2
+- **Architecture:** Clean Architecture, MVVM, MVC
+- **Native:** Kotlin, Platform Channels, Insta360 SDK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Live Apps
+- [Now Vision](https://play.google.com/store/apps/details?id=com.nowvision)
+- [Indipe Payment](https://play.google.com/store/apps/details?id=com.indipe)
+- [EZIT Guardian](https://play.google.com/store/apps/details?id=com.ezitguardian)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/syedabraarzeeshan)
+📧 abraarzeeshan27@gmail.com
