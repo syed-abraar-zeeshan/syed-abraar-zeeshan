@@ -5,10 +5,10 @@
 
 ## 🛠️ Tech Stack
 - **Mobile:** Flutter, Dart, iOS, Android
-- **State Management:** Riverpod, BLoC, GetX
+- **State Management:** GetX, Riverpod, BLoC
 - **Backend:** Node.js, Express.js, MongoDB, AWS EC2
 - **Architecture:** Clean Architecture, MVVM, MVC
-- **Native:** Kotlin, Platform Channels, Insta360 SDK
+- **Native:** Kotlin, Swift, Platform Channels, Insta360 SDK
 
 ## 📱 Android Apps
 - **Now Vision**  
