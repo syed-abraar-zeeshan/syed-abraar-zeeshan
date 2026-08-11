@@ -9,7 +9,7 @@ I specialize in scalable mobile applications, clean architecture, state manageme
 
 I also build backend services using Node.js, Express.js and MongoDB, with hands-on experience deploying applications on AWS EC2 and managing Node.js processes using PM2.
 
-My current focus is building reliable mobile applications while expanding my expertise across backend development, cloud infrastructure and full-stack engineering.
+I build reliable mobile applications and full-stack solutions, with hands-on experience across backend development, cloud deployment and application infrastructure.
 
 ## 🛠️ Tech Stack
 
@@ -72,25 +72,28 @@ My current focus is building reliable mobile applications while expanding my exp
 
 ## 📱 Android Apps
 - **Now Vision**
-- Flutter • GetX • MVC • Insta360 SDK • Apple RoomPlan
+  **Flutter • GetX • Insta360 SDK • Apple RoomPlan • Platform Channels**
   https://play.google.com/store/apps/details?id=io.vrinda.nowvision
 
 - **Indipe**
-- Flutter • BLoC • Clean Architecture • Kotlin • UPI SDK
+  **Flutter • BLoC • Clean Architecture • Kotlin • UPI SDK • Platform Channels**
   https://play.google.com/store/apps/details?id=in.indipe.consumer
 
 - **EZIT Guardian**
-- Flutter • Riverpod • REST APIs • MVVM
+  **Flutter • Riverpod • MVVM • REST APIs**
   https://play.google.com/store/apps/details?id=fin.ezit.club
 
 ## 🍎 iOS Apps
-- **Now Vision**  
+- **Now Vision**
+  **Flutter • GetX • Insta360 SDK • Apple RoomPlan • Platform Channels**
   https://apps.apple.com/in/app/now-vision/id6745320576
 
-- **Indipe**  
+- **Indipe**
+  **Flutter • BLoC • Clean Architecture • Kotlin • UPI SDK • Platform Channels**
   https://apps.apple.com/in/app/indipe/id6757139957
 
-- **EZIT Guardian**  
+- **EZIT Guardian**
+  **Flutter • Riverpod • MVVM • REST APIs** 
   https://apps.apple.com/in/app/ezit-guardian/id6479501757
 
   ## 🚀 Featured Projects
@@ -114,15 +117,16 @@ A full-stack expense management application built with Flutter and a Node.js bac
 
 **Flutter • Node.js • MongoDB • WebSocket**
 
-A real-time social and chat application currently under development.
+A real-time social and chat application currently under development, built with Flutter and Node.js.
 
-- Flutter mobile application
-- Node.js backend
-- MongoDB database
-- Real-time chat functionality
-- WebSocket-based communication
+- Developing the Flutter mobile application
+- Building backend services using Node.js
+- Using MongoDB for data persistence
+- Developing real-time chat functionality
+- Implementing WebSocket-based real-time communication
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/syedabraarzeeshan)
 
-📧 abraarzeeshan27@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/syedabraarzeeshan/)
+- 📧 [Email](mailto:abraarzeeshan27@gmail.com)
+- 💻 [GitHub](https://github.com/syed-abraar-zeeshan)
