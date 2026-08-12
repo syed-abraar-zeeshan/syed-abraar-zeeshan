@@ -1,6 +1,6 @@
 # Hi, I'm Syed Abraar Zeeshan 👋
 
-🚀 Flutter Developer | 4.8+ Years | Android • iOS • Backend • Cloud
+🚀 Flutter Developer | 4+ Years | Android • iOS • Backend • Cloud
 📍 Hyderabad, India
 
 I'm a Flutter Developer with 4.8+ years of experience building production Android and iOS applications using Flutter and Dart.
